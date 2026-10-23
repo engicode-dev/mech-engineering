@@ -6,7 +6,7 @@
 
 | Проект | Описание | Документация | 3D-модели |
 | :--- | :--- | :--- | :--- |
-| **[Кронштейн сварной](./projects/bracket)** | Ручной расчёт, CAE-анализ, чертежи, техпроцесс | [Скачать PDF](https://disk.yandex.ru/d/byQOFo1LpfVCag) | [Скачать CAD](https://disk.yandex.ru/d/c-q964DDhLTDdA)) |
+| **[Кронштейн сварной](./projects/bracket)** | Ручной расчёт, CAE-анализ, чертежи, техпроцесс | [Скачать PDF](https://disk.yandex.ru/d/byQOFo1LpfVCag) | [Скачать CAD](https://disk.yandex.ru/d/c-q964DDhLTDdA) |
 | *(В разработке)* Вал с шкивом | Кручение, изгиб, контактная задача | — | — |
 
 ## 🛠️ Технологии
