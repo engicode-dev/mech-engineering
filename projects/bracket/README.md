@@ -23,5 +23,12 @@
 *Расхождение объясняется различием расчётных схем (идеальная консоль vs податливая заделка).*
 
 ## 📥 Скачать файлы
-Все исходники (PDF, 3D-модели FreeCAD, исходники оформления) упакованы в один архив:
-👉 **[Скачать Bracket_Full_Archive.zip](https://disk.yandex.ru/d/DZc-lCb3vJLfDA)**
+
+Все материалы разложены по папкам на Яндекс.Диске. Вы можете скачать только нужное:
+
+- 📄 **[Скачать документацию (PDF, чертежи, ГОСТ)](https://disk.yandex.ru/d/byQOFo1LpfVCag)**
+- 🧊 **[Скачать 3D-модели (FreeCAD)](https://disk.yandex.ru/d/c-q964DDhLTDdA)**
+- 📐 **[Скачать исходники оформления (ODT/ODS)](https://disk.yandex.ru/d/9aNJkZ3J9qJNyQ)**
+
+*Или скачайте всё сразу одним архивом:* 
+📦 **[Скачать Bracket_Full_Archive.zip](https://disk.yandex.ru/d/z5t7Pa31iMbHHw)**
