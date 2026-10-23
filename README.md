@@ -1,32 +1,18 @@
 # Mechanical Engineering Projects
 
-This repository contains my mechanical engineering projects: manual calculations, CAE analysis, CAD models, and documentation.
+Здесь собраны мои инженерные проекты: расчёты, CAE-анализ, CAD-модели и документация по ГОСТ/ЕСТД.
 
-## 📂 Structure
+## 📂 Проекты
 
-- **calculations/** — manual calculations (strength, thermal, hydraulics)
-- **cae/** — CAE analysis (CalculiX, OpenFOAM, SimScale)
-- **cad/** — CAD models (FreeCAD, LibreCAD)
-- **docs/** — drawings, specifications, technological documentation (GOST, ESKD)
+| Проект | Описание | Документация (PDF и 3D) |
+| :--- | :--- | :--- |
+| **[Кронштейн сварной](./projects/bracket)** | Ручной расчёт, CAE-анализ, сборочный чертёж, техпроцесс | [Скачать архив с Яндекс.Диска](ВСТАВЬ_ССЫЛКУ_НА_АРХИВ) |
+| *(В разработке)* Вал с шкивом | Кручение, изгиб, контактная задача | — |
 
-## 🎯 Purpose
+## 🛠️ Технологии
+- **CAD/CAE:** FreeCAD, CalculiX
+- **Расчёты:** Maxima, Python
+- **Документация:** ГОСТ 2.104, ЕСКД, ЕСТД
 
-I use this repository to practice and showcase my engineering skills. Each project follows the full cycle:
-
-manual calculation → scheme → 3D model → CAE analysis → drawing → technological documentation → G-code
-
-## 📌 Projects (planned)
-
-- Bracket with stiffening ribs
-- Shaft with pulley
-- Shell-and-tube heat exchanger
-- Gearbox
-- Frame (truss)
-- Hydraulic cylinder
-- Pipe-in-pipe
-- Anchor fastening
-
-## 📫 Contact
-
-- Email: engicode@proton.me
-- GitHub: [engicode-dev](https://github.com/engicode-dev)
+---
+*Открыт для фриланса и интересных задач.*
